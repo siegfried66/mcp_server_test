@@ -1,3 +1,4 @@
+vs code 
 "mcpServers": {
     "DemoServer": {
       "timeout": 60,
